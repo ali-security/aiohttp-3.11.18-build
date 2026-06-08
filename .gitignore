@@ -55,6 +55,7 @@ docs/_build/
 eggs
 htmlcov
 include/
+!aiohttp/_vendored/**
 lib/
 man/
 nosetests.xml
